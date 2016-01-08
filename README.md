@@ -1,2 +1,2 @@
 # hello-world
-I'm GitHub rookie >&lt;
+I'm GitHub rookie_(:з」∠)_
